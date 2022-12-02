@@ -315,7 +315,7 @@ li a:hover{
 }
 
 .experience-content > h3{
-    color: white;
+    color: #FF428F;
     font-family: PublicSemi;
     margin-bottom: 10px;
     font-size: 1.5rem;
@@ -329,4 +329,6 @@ li a:hover{
     
 }
 
-
+.yes{
+    color: #FF428F;
+}
